@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-vitsaus-react",
+  "version": "1.0.1",
+  "description": "eslint react config for my personal projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitsaus/eslint-config-vitsaus-react.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Ville Takala",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-vitsaus": "^1.0.1"
+  }
+}
