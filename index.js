@@ -1,5 +1,8 @@
 module.exports = {
   'extends': 'vitsaus',
+  'plugins': [
+    'react'
+  ],
   'rules': {
     // React rules
     'jsx-quotes': [2, 'prefer-single'],
