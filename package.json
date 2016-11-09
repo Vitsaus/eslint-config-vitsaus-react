@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vitsaus-react",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "eslint react config for my personal projects",
   "main": "index.js",
   "repository": {
@@ -13,7 +13,7 @@
   "author": "Ville Takala",
   "license": "MIT",
   "devDependencies": {
-    "eslint-config-vitsaus": "^1.0.7",
+    "eslint-config-vitsaus": "^1.0.12",
     "eslint-plugin-react": "^6.1.1"
   }
 }
